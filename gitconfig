@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gonherrerasoria@gmail.com
+	name = Gonzalo Herrera
